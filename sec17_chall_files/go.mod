@@ -1,0 +1,3 @@
+module master_go_programming/master_go_programming_practice/sec17_chall_files
+
+go 1.17
