@@ -1,0 +1,3 @@
+module master_go_programming/master_go_programming_practice/sec21_chall_functions
+
+go 1.17
