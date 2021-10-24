@@ -1,0 +1,3 @@
+module master_go_programming/master_go_programming_practice/sec23_chall_pointers
+
+go 1.17
