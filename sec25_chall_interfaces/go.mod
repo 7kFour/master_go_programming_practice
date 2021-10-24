@@ -1,0 +1,3 @@
+module master_go_programming/master_go_programming_practice/sec25_chall_interfaces
+
+go 1.17
